@@ -23,7 +23,7 @@ $ pkg install -y git
 
 $ git clone https://github.com/luckydhakrey/INSTAGRAM-INFO 
 
-& cd ig.osi
+& cd INSTAGRAM-INFO
 
 $ chmod +x install.sh && ./install.sh
 
