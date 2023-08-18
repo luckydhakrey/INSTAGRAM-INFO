@@ -1,6 +1,6 @@
 # Open Source Information Instagram Tool
 
-The Instagram OSINT Tool gets a range of information from an Instagram account that you normally wouldn't be able to get from just looking at their profile
+The Instagram 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌-𝐈𝐍𝐅𝐎 Tool gets a range of information from an Instagram account that you normally wouldn't be able to get from just looking at their profile
 
 The information includes:
 
